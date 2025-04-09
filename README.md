@@ -25,5 +25,5 @@ yelp-data-pipeline ├── yelp_data.ipynb
 
 ## 👤 Author
 
-**Yun-Shan Chung**  
+**Shan Chung**  
 [GitHub Profile](https://github.com/a0828451)
