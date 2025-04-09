@@ -47,11 +47,8 @@ The final data is suitable for BI tools such as **Tableau** or **Power BI** for 
 ---
 
 ## 📁 Project Structure
-# yelp-data-pipeline/ ├── yelp_data.ipynb 
-# Main pipeline notebook ├── data/ 
-# Yelp JSON files (external) ├── yelp_database.db 
-# Output SQLite database ├── requirements.txt # Python dependencies ├── README.md 
-# Project documentation └── .gitignore # Git ignore rules
+yelp-data-pipeline/ ├── yelp_data.ipynb 
+Yelp JSON files (Kaggle) ├── yelp_database.db 
 
 ---
 
