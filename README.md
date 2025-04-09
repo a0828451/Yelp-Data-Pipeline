@@ -88,7 +88,7 @@ Yelp JSON files (Kaggle) ├── yelp_database.db
 
 ## 👤 Author
 
-**Yun-Shan Chung**  
+**Shan Chung**  
 [GitHub](https://github.com/a0828451) | Data Pipeline · SQL · Visualization
 
 > Feel free to fork this repo or reach out if you're working with Yelp data too!
